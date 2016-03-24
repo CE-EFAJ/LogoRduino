@@ -1,0 +1,33 @@
+¡¡Tareas pendientes!!
+
+Léxico
+	Faltan algunas funciones por verificar
+	Corchetes y las variables (Estoy en ello)
+
+Parser
+	Estan los productorios sencillos.
+	Avanza, retrocede, giros, ponrumbo, centro, bajalapiz y subelapiz
+	...
+	Los que faltan exigen crear otra manera de programarlos. (Conjunto de ordenes, corchetes, ponpos, repite, procedimientos, variables)
+	
+Arduino
+	Robot. Conexión Wi-Fi.
+	En esto Yo (Ernesto). No puedo hacer mucho. Me faltan todos los componentes.
+
+Clase Tortuga
+	Que realice como metodos todas las funciones del enunciado.
+	Tiene que hacer calculos aritmeticos, angulos, posiciones, una loquera.
+
+GUI
+	Creo que no debe ser tan pesada.
+	Cuadros de texto.
+	Me parece que sería más fácil que guarde las varas en disco.
+	Mostrar mensajes de error.
+	
+Facade
+	Entre clase tortuga y Arduino
+	Hay que idear algo fácil y que funcione.
+	Entre menos carga al Arduino mejor.
+	
+Creo que eso es todo básicamente. No hay nada finalizado que yo sepa.
+Voy a subir la vara a GitHub para que lo puedan editar y agregar tareas.
